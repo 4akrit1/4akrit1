@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aakriti6468" target="blank"><img src="https://img.shields.io/twitter/follow/aakriti6468?logo=twitter&style=for-the-badge" alt="aakriti6468" /></a> </p>
 
-- 🔭 I’m currently working on **ReRead**
-
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working on **Sellerscore**
 
 - 📫 How to reach me **aakritib92@gmail.com**
 
