@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Sellerscore**
 
-- 📫 How to reach me **aakritib92@gmail.com**
+- 📫 How to reach me **connectwithakreeti@gmail.com**
 
 - ⚡ Fun fact **Fast learner with short-term memory**
 
